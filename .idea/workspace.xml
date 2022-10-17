@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1623ec4-131a-4c3d-b346-38ae441bcac5" name="Changes" comment="first commit html">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/A07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brancaccio75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chua75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/eire75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sampson75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sampson_dinosaur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sorkin75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/town_hall_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tynan75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speakers/brancaccio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speakers/chua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speakers/sorkin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/c3_content.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G5x68RPBzsvyM2PAnKAHiVbnoE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/speakers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1623ec4-131a-4c3d-b346-38ae441bcac5" name="Changes" comment="" />
+      <created>1665692068817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665692068817</updated>
+      <workItem from="1665692070135" duration="8000" />
+      <workItem from="1665692094988" duration="4490000" />
+      <workItem from="1665699159661" duration="159000" />
+      <workItem from="1665699325161" duration="2000" />
+      <workItem from="1665699878650" duration="69000" />
+      <workItem from="1665750330490" duration="13000" />
+      <workItem from="1665750730874" duration="75000" />
+      <workItem from="1665750834397" duration="6000" />
+      <workItem from="1666047022151" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit html" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit html" />
+  </component>
+</project>
